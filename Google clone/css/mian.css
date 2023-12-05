@@ -15,6 +15,7 @@ header {
     height: 60px;
 }
 
+/* Acá se configura la barra nav del header */
 header nav {
     display: flex;
     justify-content: flex-end;
